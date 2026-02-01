@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container mx-auto px-6">
         <div className="grid md:grid-cols-4 gap-8 mb-12">
           <div className="col-span-1 md:col-span-2">
-            <h3 className="font-serif text-2xl text-stone-100 mb-4">Dr. Sarah Bennett</h3>
+            <h3 className="font-serif text-2xl text-stone-100 mb-4">Dr. Sarah Belayneh</h3>
             <p className="max-w-xs leading-relaxed">
               Compassionate, evidence-based therapy to help you navigate life's challenges and find your way back to yourself.
             </p>
@@ -33,7 +33,7 @@ const Footer = () => {
         </div>
 
         <div className="pt-8 border-t border-stone-800 flex flex-col md:flex-row justify-between items-center gap-4 text-sm">
-          <p>&copy; {new Date().getFullYear()} Dr. Sarah Bennett. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Dr. Sarah Belayneh . All rights reserved.</p>
           <div className="flex items-center gap-2 text-amber-500/80">
             <span className="w-2 h-2 rounded-full bg-amber-500 animate-pulse"></span>
             Crisis Line: 988

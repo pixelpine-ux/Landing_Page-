@@ -18,7 +18,7 @@ function App() {
       <nav className="fixed top-0 left-0 w-full bg-stone-50/80 backdrop-blur-md z-50 border-b border-stone-100">
         <div className="container mx-auto px-6 py-4 flex justify-between items-center">
           <div className="text-xl font-serif font-semibold text-stone-900">
-            Dr. Sarah Bennett
+            Dr. Sarah Belayneh 
           </div>
           <div className="hidden md:flex gap-8 text-stone-600 font-medium items-center">
             <a href="#about" className="hover:text-primary-600 transition-colors">About</a>

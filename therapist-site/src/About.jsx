@@ -38,7 +38,7 @@ const About = () => {
               About Me
             </span>
             <h2 className="font-serif text-3xl md:text-4xl text-stone-900 mt-3 mb-6">
-              Hi, I'm Dr. Sarah Bennett.
+              Hi, I'm Dr. Sarah Belayneh.
             </h2>
             
             <div className="space-y-6 text-lg text-stone-600 leading-relaxed">
