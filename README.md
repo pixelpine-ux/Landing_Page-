@@ -1,6 +1,6 @@
 # Dr. Sarah Belayneh - Therapist Landing Page
 
-A professional, calming, and responsive landing page designed for a therapist or counselor business. This project focuses on establishing trust through a clean design, soothing color palette, and gentle animations.
+A professional potential landing page or a blog site .
 
 ## 🚀 Tech Stack
 
